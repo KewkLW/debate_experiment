@@ -1,3 +1,7 @@
+## Debate Experiment
+
+I gave gamini 1.5 the Biden / trump debate and then provided a scoring rubric and fact checked lies from both sides. All documents are in this repo for evaluation. The results are below. 
+
 ## Debate Evaluation: "Joe" vs. "Donald"
 
 **Joe (Player #1)**
